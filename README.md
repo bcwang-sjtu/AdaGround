@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>AdaGround: Token-Normalized Adaptive Zooming with<br>Verifier-in-the-Loop Refinement for GUI Grounding</h1>
+<h1>AdaGround: Token-Normalized Adaptive Zooming with Verifier-in-the-Loop Refinement for GUI Grounding</h1>
 
 <p>
   Bingchao Wang<sup>1,2</sup> ·
