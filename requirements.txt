@@ -1,0 +1,7 @@
+# Versions used for the paper results (Python 3.11, CUDA 12.8).
+torch==2.9.0
+vllm==0.11.2
+transformers==4.57.1
+qwen-vl-utils==0.0.14
+pillow==12.2.0
+numpy==1.26.4
